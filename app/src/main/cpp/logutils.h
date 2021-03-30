@@ -1,5 +1,5 @@
 //
-// Created by Jason Loh on 24/3/21.
+// Created by Andreas S on 24/3/21.
 //
 
 #include <android/log.h>

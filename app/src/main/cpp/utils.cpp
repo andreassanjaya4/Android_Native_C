@@ -1,5 +1,5 @@
 //
-// Created by Jason Loh on 25/3/21.
+// Created by Andreas S on 25/3/21.
 //
 #include <jni.h>
 #include <string>
